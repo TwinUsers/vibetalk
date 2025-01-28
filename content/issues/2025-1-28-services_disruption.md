@@ -1,8 +1,7 @@
 ---
 title: Services Disruption / Instability
-date: 2025-1-28 12:25:00
+date: 2025-1-28 07:25:00
 resolved: false
-resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
