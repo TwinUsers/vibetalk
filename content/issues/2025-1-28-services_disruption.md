@@ -1,12 +1,14 @@
----
-title: Services Disruption / Instability
-date: 2025-1-28 07:25:00
-resolved: false
-# Possible severity levels: down, disrupted, notice
-severity: disrupted
+—
+title: Major outage in East US
+date: 2025-01-28 14:30:00
+resolved: true
+resolvedWhen: 2025-01-28 16:00:00
+severity: down
 affected:
-  - IRC Services
+  - Email
 section: issue
----
+—
 
-*Investigating* - We're aware of an issue affecting Services _(NickServ, ChanServ, MemoServ, etc)_.  We're online and working on a resolution.
+*Monitoring* - After hitting the ole reboot button Example Chat App is now recovering. We’re going to continue to monitor as everyone reconnects. {{< track "2018-04-13 16:50:00" >}}
+
+*Investigating* - We’re aware of users experiencing unavailable guilds and issues when attempting to connect. We’re currently investigating. {{< track "2018-04-13 15:54:00" >}}
