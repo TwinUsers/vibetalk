@@ -1,6 +1,6 @@
 ---
 title: Issues Sending Emails
-date: 2015-1-28 16:24:00
+date: 2025-1-28 16:24:00
 resolved: false
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
