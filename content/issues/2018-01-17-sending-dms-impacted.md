@@ -1,15 +1,13 @@
 ---
-title: Issues Sending DMs
-date: 2017-12-17 16:24:00
-resolved: true
-resolvedWhen: 2017-12-17 16:58:00
+title: Issues Sending Emails
+date: 2015-1-28 16:24:00
+resolved: false
+resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
-  - API
+  - Email
 section: issue
 ---
 
-*Update* - This incident has been resolved.
-
-*Investigating* - We're aware of an issue affecting sending DMs and viewing online friends. We're online and working on a resolution.
+*Investigating* - We're aware of an issue affecting sending Emails. We're online and working on a resolution.
