@@ -237,7 +237,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 
   # Should incident history be separated
   # like in an archive view?
@@ -273,7 +273,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableDarkMode: false
+  disableDarkMode: true
 
   # Should we show the logo or the title
   # of the status page?
