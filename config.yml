@@ -157,11 +157,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Website
-      description: The web frontend for the VibeTalk.
-      category: Web
-      link: https://vibetalk.net/
-    - name: IRC Servers
+    - name: kyber.vibetalk.net
+      description: IRC servers.
+      category: IRC Servers
+    - name: tiger.vibetalk.net
       description: IRC servers.
       category: IRC Servers
       link: https://vibetalk.net/servers
