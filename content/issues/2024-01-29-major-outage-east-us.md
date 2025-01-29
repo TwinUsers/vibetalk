@@ -1,5 +1,5 @@
 ---
-title: kyber.vibetalk.net connectivy issues
+title: kyber connectivy issues
 date: 2025-01-29 13:10:00
 resolved: false
 resolvedWhen: 2025-01-29 18:34:00
@@ -9,4 +9,4 @@ affected:
 section: issue
 ---
 
-*Investigating* - We’re aware of users experiencing connection issues with kyber.vibetalk.net. We're currently investigating. {{< track "2025-01-29 15:54:00" >}}
+*Investigating* - We’re aware of users experiencing connection issues with kyber.vibetalk.net. We're currently investigating. {{< track "2025-01-29 13:10" >}}
