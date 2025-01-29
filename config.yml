@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://vibetalk.net
+baseURL: https://status.vibetalk.net
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -143,10 +143,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Email
     - name: IRC Servers
     - name: IRC Services
-    - name: Web
+    - name: ZNC Servers
     - name: Uncategorized
       untitled: true
 
