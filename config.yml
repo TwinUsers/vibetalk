@@ -167,17 +167,10 @@ params:
       category: IRC Servers
     - name: Torrin
       category: IRC Servers
-    - name: IRC Services
-      description: IRC services (NickServ, ChanServ, MemoServ, etc).
-      category: IRC Services
-      link: https://vibetalk.net/servers
-    - name: ZNC
-      description: ZNC, hosted by VibeTalk
-      category: IRC Services
-      link: https://vibetalk.net/znc
-    - name: Email Service
-      description: The Email service for the VibeTalk.
-      category: Email
+    - name: Luxembourg
+      category: ZNC Servers
+    - name: Canada
+      category: ZNC Servers
 
 
   # What date format to use?
