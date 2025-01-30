@@ -161,9 +161,7 @@ params:
       description: IRC servers - kyber.vibetalk.net.
       category: IRC Servers
     - name: Tiger
-      description: IRC servers - tiger.vibetalk.net
       category: IRC Servers
-      link: https://vibetalk.net/servers
     - name: IRC Services
       description: IRC services (NickServ, ChanServ, MemoServ, etc).
       category: IRC Services
