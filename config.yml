@@ -144,7 +144,6 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: IRC Servers
-    - name: IRC Services
     - name: ZNC Servers
     - name: Uncategorized
       untitled: true
@@ -220,7 +219,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  skipSeconds: false
+  skipSeconds: true
 
   # Should there be an automatic "Last updated"
   # text shown below issues?
@@ -269,7 +268,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableDarkMode: true
+  disableDarkMode: false
 
   # Should we show the logo or the title
   # of the status page?
