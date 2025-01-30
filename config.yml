@@ -165,6 +165,8 @@ params:
       category: IRC Servers
     - name: Firefox
       category: IRC Servers
+    - name: Torrin
+      category: IRC Servers
     - name: IRC Services
       description: IRC services (NickServ, ChanServ, MemoServ, etc).
       category: IRC Services
