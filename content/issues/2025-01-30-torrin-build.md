@@ -9,4 +9,4 @@ affected:
 section: issue
 ---
 
-*Pending* - We are in the process of building our Tor server (Torrin). We don't have an ETA at present and will keep you updated {{< track "2025-01-30 15:57:00" >}}
+**Pending** - We are in the process of building our Tor server (Torrin). We don't have an ETA at present and will keep you updated {{< track "2025-01-30 15:57:00" >}}
