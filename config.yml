@@ -157,10 +157,13 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Kyber
-      description: IRC servers - kyber.vibetalk.net.
+    - name: Omnli
       category: IRC Servers
-    - name: Tiger
+    - name: Twiglet
+      category: IRC Servers
+    - name: Kyber
+      category: IRC Servers
+    - name: Firefox
       category: IRC Servers
     - name: IRC Services
       description: IRC services (NickServ, ChanServ, MemoServ, etc).
