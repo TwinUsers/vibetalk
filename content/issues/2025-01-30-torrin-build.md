@@ -3,7 +3,7 @@ title: Torrin Build
 date: 2025-01-30 15:57:00
 resolved: false
 resolvedWhen: 2025-01-29 15:49:00
-severity: down
+severity: disruption
 affected:
   - Torrin
 section: issue
