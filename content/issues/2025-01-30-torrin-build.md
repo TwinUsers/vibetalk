@@ -3,13 +3,13 @@ title: Torrin Build
 date: 2025-01-30 15:57:00
 resolved: false
 resolvedWhen: 2025-01-29 15:49:00
-severity: down
+severity: notice
 affected:
   - Torrin
 section: issue
 ---
 
-*final update* - TOR access will be live Sunday afternoo {{< track "2025-02-09 09:21:00" >}}
+**final update** - TOR access will be live Sunday afternoon {{< track "2025-02-09 09:21:00" >}}
 
 *update* - IRCd built, we are now in the configuration stage. Next update by 4pm {{< track "2025-01-31 11:28:00" >}}
 
