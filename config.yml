@@ -164,12 +164,12 @@ params:
       category: IRC Servers
     - name: Firefox
       category: IRC Servers
-    - name: Torrin
-      category: IRC Servers
     - name: Luxembourg
       category: ZNC Servers
     - name: Canada
       category: ZNC Servers
+    - name: Amsterdam
+      categort: ZNC Servers
 
 
   # What date format to use?
