@@ -1,7 +1,7 @@
 ---
 title: Torrin Build
 date: 2025-01-30 15:57:00
-resolved: false
+resolved: true
 resolvedWhen: 2025-02-10 08:49:00
 severity: notice
 affected:
