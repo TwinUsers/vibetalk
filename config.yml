@@ -169,7 +169,7 @@ params:
     - name: Canada
       category: ZNC Servers
     - name: Amsterdam
-      categort: ZNC Servers
+      category: ZNC Servers
 
 
   # What date format to use?
