@@ -158,13 +158,11 @@ params:
   systems:
     - name: Omnli
       category: IRC Servers
-    - name: Twiglet
+    - name: Slinky
       category: IRC Servers
     - name: Kyber
       category: IRC Servers
-    - name: Firefox
-      category: IRC Servers
-    - name: Luxembourg
+    - name: Buffalo
       category: ZNC Servers
     - name: Canada
       category: ZNC Servers
